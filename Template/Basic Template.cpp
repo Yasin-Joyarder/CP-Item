@@ -12,7 +12,7 @@
 #define no cout << "NO" << '\n';
 #define srt(v) sort(v.begin(), v.end());
 #define rsrt(v) sort(v.rbegin(), v.rend());
-#define fastio() ios::sync_with_stdio(false); cin.tie(0); cout.tie(0);
+#define fastio ios::sync_with_stdio(false); cin.tie(0); cout.tie(0);
 #define rvs(v) reverse(v.begin(), v.end());
 #define F first
 #define S second
