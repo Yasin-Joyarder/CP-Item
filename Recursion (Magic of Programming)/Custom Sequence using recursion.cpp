@@ -1,3 +1,4 @@
+//Inspired by Nafi Vai
 /*Suppose we want to get some sequences where the 
   ith number is the sum of the (i-1)th number and (i/2)th number.
   Most importantly, the base case of that number sequence is 
